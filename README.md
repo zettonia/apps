@@ -1,5 +1,5 @@
 # Roblox Auto Clicker
-© Zettonia Tech 2019
+© Zettonia Tech, DJ Wong, 2019 
 This Roblox Auto Clicker is distributed under the Creative Commons Attribution-NonCommercial 3.0 Singapore.
 You may use it for non-commercial uses.
 You may not use it for exploits or malicious usage.
