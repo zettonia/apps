@@ -26,3 +26,5 @@ Enter the following command to hash:
 The clicker will run when you are in Roblox. It is preferable that you play in Full Screen mode as the click will run.
 Alt-Tab to the Auto Clicker and press STOP button to stop the clicking.
 Press Start to resume the auto clicker.
+
+**1 second per click** is the minimum speed to prevent the exploitation of games which developers have put in extraordinary effort to create.
